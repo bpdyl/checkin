@@ -38,7 +38,6 @@ pytest==7.4.3
 python-dateutil==2.8.2
 python-http-client==3.3.7
 pytz==2023.3.post1
-pywin32==306
 requests==2.31.0
 sendgrid==6.11.0
 six==1.16.0
